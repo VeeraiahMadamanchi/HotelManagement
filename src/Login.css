@@ -1,0 +1,11 @@
+.creteaccount_about{
+    padding: 20px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+}
+.login_Form{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}

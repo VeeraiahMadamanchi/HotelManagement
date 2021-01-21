@@ -1,0 +1,16 @@
+.about_footer{
+    text-align: center;
+  padding: 13px;
+  background-color: DarkSalmon;
+  color: white;
+}
+.about-section {
+    padding: 20px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+  .body_image{
+     display: flex;  
+  }
+  
