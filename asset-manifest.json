@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HotelManagement/static/css/main.9be3e9a5.chunk.css",
-    "main.js": "/HotelManagement/static/js/main.307719f4.chunk.js",
-    "main.js.map": "/HotelManagement/static/js/main.307719f4.chunk.js.map",
+    "main.js": "/HotelManagement/static/js/main.bf446596.chunk.js",
+    "main.js.map": "/HotelManagement/static/js/main.bf446596.chunk.js.map",
     "runtime-main.js": "/HotelManagement/static/js/runtime-main.5e755de2.js",
     "runtime-main.js.map": "/HotelManagement/static/js/runtime-main.5e755de2.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/HotelManagement/static/css/2.ae9f1eb3.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.ad9757fa.chunk.js",
     "static/css/main.9be3e9a5.chunk.css",
-    "static/js/main.307719f4.chunk.js"
+    "static/js/main.bf446596.chunk.js"
   ]
 }
